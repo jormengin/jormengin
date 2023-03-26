@@ -8,7 +8,7 @@ Software Development | Full Stack Development`
 
 ## Relevant Links
 
- - [Personal Portfolio](https://jorgemendezdev.com}
+ - [Personal Portfolio] (https://jorgemendezdev.com)
  - [LinkedIn](https://www.linkedin.com/in/jorge-m%C3%A9ndez-51b928124/)
  
  

@@ -133,6 +133,8 @@ Jorge Here! (or George if you prefer) <br/>
 
 - 👨🏻‍💻 I'm finishing my studies in Web Development <a href="https://www.ironhack.com/en">@Ironhack</a> learning how to build apps with HTML, CSS, JavaScript, and React. As a last bootcamp project I'm building a fullstack webapp integrating all the MERN stack alongisde Mapbox, calendars, payment methods,etc!
 
+- 🚀 Really passionate about building projects, code and solving challenging problems. Love to see ideas coming into reality.
+
 ## Contact Me 📫
 
  - [Personal Portfolio](https://jorgemendezdev.com)

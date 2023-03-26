@@ -16,22 +16,6 @@ Jorge Here! (or George if you prefer)
 
 <div>
   <p align="left">
-    <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-      <img
-        src="https://img.icons8.com/color/512/jira.png"
-        alt="jira-software"
-        width="30"
-      />
-    </a>
-    &nbsp;
-    <a href="https://www.atlassian.com/software/confluence" target="_blank" rel="noreferrer">
-      <img
-        src="https://img.icons8.com/fluency/512/confluence.png"
-        alt="jira-confluence"
-        width="30"
-      />
-    </a>
-    &nbsp;
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -124,14 +108,6 @@ Jorge Here! (or George if you prefer)
       />
     </a>
     &nbsp;
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-        alt="figma"
-        width="30"
-      />
-    </a>
-     &nbsp;
     <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
       <img
         src="https://img.icons8.com/color/512/tableau-software.png"
@@ -140,14 +116,6 @@ Jorge Here! (or George if you prefer)
       />
     </a>
          &nbsp;
-    <a href="https://www.mailchimp.com/" target="_blank" rel="noreferrer">
-      <img
-        src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/512/external-mailchimp-is-a-marketing-automation-platform-and-an-email-marketing-service-logo-shadow-tal-revivo.png"
-        alt="mailchimp"
-        width="30"
-      />
-    </a>
-     &nbsp;
     <a href="https://www.miro.com/" target="_blank" rel="noreferrer">
       <img
         src="https://www.freelogovectors.net/wp-content/uploads/2021/12/mirologo-freelogovectors.net_.png"
@@ -155,8 +123,6 @@ Jorge Here! (or George if you prefer)
         width="30"
       />
     </a>
-    
-    
   </p>
 </div>
 

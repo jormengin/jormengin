@@ -5,11 +5,8 @@ Jorge Here! (or George if you prefer) <br/>
 📍Barcelona, Spain
 
 ``Software Development | Full Stack Development``
-
-
  
- 
-## Languages and Tools
+## Languages and Tools 🛠
 
 <div>
   <p align="left">
@@ -124,13 +121,31 @@ Jorge Here! (or George if you prefer) <br/>
 </div>
 
 
-## Contact Me 
+
+
+ ## About me 🎯
+
+
+
+- 💬 I am an experienced personal trainer and photographer, who has worked with hundreds of clients and given a few seminars/workshops in the field. Graduated with honors in my Sports Science BSc and MSc.
+
+- 🔭 I'm currently transitioning from PT/photography to a Junior Fullstack web development position.
+
+- 👨🏻‍💻 I'm finishing my studies in Web Development <a href="https://www.ironhack.com/en">@Ironhack</a> learning how to build apps with HTML, CSS, JavaScript, and React. As a last bootcamp project I'm building a fullstack webapp integrating all the MERN stack alongisde Mapbox, calendars, payment methods,etc!
+
+## Contact Me 📫
 
  - [Personal Portfolio](https://jorgemendezdev.com)
  - [LinkedIn](https://www.linkedin.com/in/jorge-m%C3%A9ndez-51b928124/)
+ - [Photography portfolio](https://wirestock.io/jorge.mendez)
+
+
+##Projects
+
+[Devault - Full stack dev tools repository webapp](https://devault-app.fly.dev/)
+[Guessr - Logic number and letter game using DOM manipulation](https://jormengin.github.io/Guessr/)
  
 <!--
-**jormengin/jormengin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

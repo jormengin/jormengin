@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Jorge! 👋
 
 
 Jorge Here! (or George if you prefer) <br/>

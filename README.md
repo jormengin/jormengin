@@ -142,7 +142,7 @@ Jorge Here! (or George if you prefer) <br/>
 
 ## Projects
 
-[Devault - Full stack dev tools repository webapp](https://devault-app.fly.dev/) 
+[Devault - Full stack dev tools repository webapp](https://devault-app.fly.dev/) <br />
 [Guessr - Logic number and letter game using DOM manipulation](https://jormengin.github.io/Guessr/)
  
 <!--

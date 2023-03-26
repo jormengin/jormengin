@@ -4,7 +4,7 @@
 Jorge Here! (or George if you prefer)
 📍Barcelona, Spain
 
-'Software Development | Full Stack Development'
+Software Development | Full Stack Development`
 
 ## Relevant Links
 

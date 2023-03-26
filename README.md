@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Jorge Here! (or George if you prefer)
+Jorge Here! (or George if you prefer) <br/>
 📍Barcelona, Spain
 
 ``Software Development | Full Stack Development``
